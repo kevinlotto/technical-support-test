@@ -28,22 +28,22 @@ const categories = [
     "category": "headquarters",
     "suggestion": "Headquarters",
     "facts": [
-      "Google's headquarters is in Mountain View, California.",
-      "Google has over 30 cafeterias in its main campus.",
-      "Google has over 10 fitness facilities in its main campus."
+      "Google's headquarters is in info deleted.",
+      "Google has over 30 bathrooms in its main campus.",
+      "Google has over 10 people in its main campus."
     ],
-    "factPrefix": "Okay, here's a headquarters fact."
+    "factPrefix": "Okay, here's a Googie fact."
   },
   {
     "category": "history",
     "suggestion": "History",
     "facts": [
-      "Google was founded in 1998.",
-      "Google was founded by Larry Page and Sergey Brin.",
-      "Google went public in 2004.",
-      "Google has more than 70 offices in more than 40 countries."
+      "Google was founded in 1898.",
+      "Google was founded by Larry Brin and Sergey Paige.",
+      "Google went public in 2024.",
+      "Google has more than 1 office in more than 300 countries."
     ],
-    "factPrefix": "Sure, here's a history fact."
+    "factPrefix": "Sure, here's a Googie fact."
   }
 ];
 
